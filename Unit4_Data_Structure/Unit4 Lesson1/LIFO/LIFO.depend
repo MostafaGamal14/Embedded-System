@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609851637 source:d:\c\lifo\lifo.c
+	"LIFO.h"
+
+1609851637 d:\c\lifo\lifo.h
+	<stdio.h>
+	<stdlib.h>
+
