@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612605298 source:d:\c\student_managements\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
